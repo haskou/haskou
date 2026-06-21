@@ -2,9 +2,12 @@ I'm the former demon of the thirty-seventh requested change.
 
 ```
 ./public
-├── value-objects        string bad
-├── pigeon-swarm         encrypted p2p brainrot
-└── ddd-engineer-skills  robot discipline chamber
+├── value-objects            string bad
+└── ddd-engineer-skills      robot discipline chamber
+├── pigeon-swarm             encrypted p2p brainrot
+    ├── pigeon-swarm-node    backend
+    ├── pigeon-swarm-ui      frontend
+
 ```
 
 current aura:
