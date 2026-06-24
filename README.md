@@ -6,7 +6,7 @@ I'm the former demon of the thirty-seventh requested change.
 ├── eslint-config            bad code punishment
 ├── ddd-engineer-skills      robot discipline chamber
 └── pigeon-swarm             encrypted p2p brainrot
-    └── pigeon-swarm-node    backend
+    ├── pigeon-swarm-node    backend
     └── pigeon-swarm-ui      frontend
 
 ```
