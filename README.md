@@ -1,4 +1,4 @@
-I do DDD, weeb and Ham radio stuff.
+I do DDD, weeb and ham radio stuff.
 
 <pre>
 ./public
@@ -11,7 +11,7 @@ I do DDD, weeb and Ham radio stuff.
 │   ├── <a href="https://github.com/haskou/pigeon-swarm-node">pigeon-swarm-node</a>
 │   └── <a href="https://github.com/haskou/pigeon-swarm-ui">pigeon-swarm-ui</a>
 ├── <a href="https://github.com/haskou/railgun">railgun</a>               project scaffolding and release tooling        [<a href="https://www.npmjs.com/package/@haskou/railgun">npm</a>]
-└── <a href="https://github.com/haskou/value-objects">value-objects</a>         reusable domain value-obects for TypeScript    [<a href="https://www.npmjs.com/package/@haskou/value-objects">npm</a>]
+└── <a href="https://github.com/haskou/value-objects">value-objects</a>         reusable domain value-objects for TypeScript   [<a href="https://www.npmjs.com/package/@haskou/value-objects">npm</a>]
 </pre>
 
 I use Arch, btw.
