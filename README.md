@@ -1,23 +1,16 @@
-I'm the former demon of the thirty-seventh requested change.
+I do DDD, weeb and Ham radio stuff.
 
-```
+<pre>
 ./public
-├── ddd-engineer-skills      robot discipline chamber
-├── ddd-kernel               aggregate root jail
-├── eslint-config            bad code punishment
-├── flow                     async chaos management
-├── pigeon-swarm             encrypted p2p brainrot
-│   ├── pigeon-swarm-node    backend
-│   └── pigeon-swarm-ui      frontend
-├── railgun                  release pipeline weaponry
-└── value-objects            string bad
-```
+├── <a href="https://github.com/haskou/ddd-engineer-skills">ddd-engineer-skills</a>   reusable DDD Codex skills
+├── <a href="https://github.com/haskou/ddd-kernel">ddd-kernel</a>            framework-agnostic TypeScript DDD kernel       [<a href="https://www.npmjs.com/package/@haskou/ddd-kernel">npm</a>]
+├── <a href="https://github.com/haskou/eslint-config">eslint-config</a>         strict TypeScript linting config               [<a href="https://www.npmjs.com/package/@haskou/eslint-config">npm</a>]
+├── <a href="https://github.com/haskou/flow">flow</a>                  async coordination and resilience helpers      [<a href="https://www.npmjs.com/package/@haskou/flow">npm</a>]
+├── <a href="https://github.com/haskou/pigeon-swarm">pigeon-swarm</a>          encrypted peer-to-peer communication platform
+│   ├── <a href="https://github.com/haskou/pigeon-swarm-node">pigeon-swarm-node</a>
+│   └── <a href="https://github.com/haskou/pigeon-swarm-ui">pigeon-swarm-ui</a>
+├── <a href="https://github.com/haskou/railgun">railgun</a>               project scaffolding and release tooling        [<a href="https://www.npmjs.com/package/@haskou/railgun">npm</a>]
+└── <a href="https://github.com/haskou/value-objects">value-objects</a>         reusable domain value-obects for TypeScript    [<a href="https://www.npmjs.com/package/@haskou/value-objects">npm</a>]
+</pre>
 
-current aura:
-
-- lurker
-- backend cryptid
-- fumo/chocopuni adjacent
-- naming violence
-
-this profile is not maintained, it just gets worse
+I use Arch, btw.
