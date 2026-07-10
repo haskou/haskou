@@ -2,6 +2,7 @@ I do DDD, weeb and Ham radio stuff.
 
 <pre>
 ./public
+├── <a href="https://github.com/haskou/clear-morning">clear-morning</a>         personal browser start screen
 ├── <a href="https://github.com/haskou/ddd-engineer-skills">ddd-engineer-skills</a>   reusable DDD Codex skills
 ├── <a href="https://github.com/haskou/ddd-kernel">ddd-kernel</a>            framework-agnostic TypeScript DDD kernel       [<a href="https://www.npmjs.com/package/@haskou/ddd-kernel">npm</a>]
 ├── <a href="https://github.com/haskou/eslint-config">eslint-config</a>         strict TypeScript linting config               [<a href="https://www.npmjs.com/package/@haskou/eslint-config">npm</a>]
