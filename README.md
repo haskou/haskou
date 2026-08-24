@@ -3,6 +3,7 @@ I do DDD, weeb and ham radio stuff.
 <pre>
 ./public
 ├── games
+│   ├── <a href="https://github.com/haskou/gfl-psvita">gfl-psvita</a>            Girls' Frontline port for PlayStation Vita
 │   └── <a href="https://github.com/haskou/subahibi-psvita">subahibi-psvita</a>       Wonderful Everyday port for PlayStation Vita
 ├── projects
 │   ├── <a href="https://github.com/haskou/clear-morning">clear-morning</a>         personal browser start screen                  [<a href="https://haskou.github.io/clear-morning/">link</a>]
