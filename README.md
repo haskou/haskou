@@ -1,4 +1,4 @@
-I do DDD, weeb and ham radio stuff.
+I do DDD, otaku and ham radio stuff.
 
 <pre>
 ./public
